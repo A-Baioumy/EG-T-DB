@@ -1,0 +1,74 @@
+circle {
+    stroke-width: 30px;
+}
+.content{
+ #width: 100%;
+ #background: #F7F7F7;
+ position:absolute;
+ top: 15px;
+ left:20px;
+ }
+
+.OEE{
+ position:absolute;
+ top: 120px;
+ left:0px; 
+ }
+
+.Quality{
+ position:absolute;
+ top: 430px;
+ left:480px; 
+ }
+ 
+ .Performance{
+ position:absolute;
+ top: 430px;
+ left:240px; 
+ }
+ 
+ .Avalability{
+ position:absolute;
+ top: 430px;
+ left:0px; 
+ }
+ .Pice_per_Min{
+ position:absolute;
+ top: 120px;
+ left:300px; 
+ }
+ 
+ .Productivity{
+ position:relative;
+ top: 250px;
+ left:600px; 
+ }
+ 
+ .Line{
+ position:absolute;
+ top: 75px;
+ left:600px; 
+ }
+ 
+ .date{
+ position:absolute;
+ top: 10px;
+ right:-650px; 
+ }
+ .Shift_Time{
+ position:absolute;
+ top: 10px;
+ right:-325px; 
+ }
+ 
+ .Run_Time{
+ position:absolute;
+ top: 420px;
+ left:710px; 
+ }
+ 
+ .Errors{
+ position:absolute;
+ top: 430px;
+ left:1030px; 
+ }
